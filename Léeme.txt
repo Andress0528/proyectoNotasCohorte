@@ -1,0 +1,7 @@
+Link de la página: https://proyecto-notas-cohorte.herokuapp.com/index.php
+
+Login Rector:
+
+	Usuario: Pablo
+	Contraseña: unillanos
+
